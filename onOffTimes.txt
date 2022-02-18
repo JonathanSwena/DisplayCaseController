@@ -1,0 +1,4 @@
+Time on: 8:50
+Time off: 0:00
+
+Time is in 24hr time;
